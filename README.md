@@ -2,6 +2,14 @@
 Use user authentication processes Login Logout Register(profile) Edit-profile Change-password Reset-password. 
 (Django bootstrap &amp; others)
 
+# Service
+*Login
+*Logout
+*Register
+*Edit
+*Change-password
+*Reset-password
+
 
 ## Login
 ![01](https://user-images.githubusercontent.com/30366380/69778092-3e55ce00-11cd-11ea-95fa-86a5ba747a27.png)
@@ -26,6 +34,7 @@ Use user authentication processes Login Logout Register(profile) Edit-profile Ch
 
 ## Reset Password
 ![07](https://user-images.githubusercontent.com/30366380/69778238-c89e3200-11cd-11ea-91a5-20d7327a6e84.png)
+
 
 ![08](https://user-images.githubusercontent.com/30366380/69778278-e53a6a00-11cd-11ea-901d-d9ee4a6173dc.png)
 
