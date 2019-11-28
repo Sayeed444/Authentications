@@ -3,12 +3,12 @@ Use user authentication processes Login Logout Register(profile) Edit-profile Ch
 (Django bootstrap &amp; others)
 
 # Service:
-* Login
-* Logout
-* Register
-* Edit
-* Change-password
-* Reset-password
+* Login .
+* Logout .
+* Register .
+* Edit .
+* Change-password .
+* Reset-password .
 
 
 ## Login
